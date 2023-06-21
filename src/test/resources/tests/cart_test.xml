@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Cart" verbose="1" >
+
+    <test name="Check cart after adding and deleting product" >
+        <classes>
+            <class name="qa.project.CartTest" />
+        </classes>
+    </test>
+
+</suite>

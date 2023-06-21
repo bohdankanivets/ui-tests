@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Sorting from higher prices to lower" verbose="1" >
+
+    <test name="Check sorting from higher prices to lower" >
+        <classes>
+            <class name="qa.project.SortingFromHigherPricesToLowerTest" />
+        </classes>
+    </test>
+
+</suite>
