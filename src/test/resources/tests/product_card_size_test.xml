@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="product card size" verbose="1" >
+
+    <test name="Check product card size" >
+        <classes>
+            <class name="qa.project.ProductCardSizeTest" />
+        </classes>
+    </test>
+
+</suite>
